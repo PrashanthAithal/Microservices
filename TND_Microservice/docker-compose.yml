@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tnd_microservice:
+    image: ${DOCKER_REGISTRY-}tndmicroservice
+    build:
+      context: .
+      dockerfile: TND_Microservice/Dockerfile

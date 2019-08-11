@@ -1,0 +1,14 @@
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.csprojAssemblyReference.cache
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.csproj.CoreCompileInputs.cache
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.RazorAssemblyInfo.cache
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.RazorAssemblyInfo.cs
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.AssemblyInfoInputs.cache
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.AssemblyInfo.cs
+D:\developer\2017\TND_Microservice\TND_Microservice\bin\Debug\netcoreapp2.1\TND_Microservice.deps.json
+D:\developer\2017\TND_Microservice\TND_Microservice\bin\Debug\netcoreapp2.1\TND_Microservice.runtimeconfig.json
+D:\developer\2017\TND_Microservice\TND_Microservice\bin\Debug\netcoreapp2.1\TND_Microservice.runtimeconfig.dev.json
+D:\developer\2017\TND_Microservice\TND_Microservice\bin\Debug\netcoreapp2.1\TND_Microservice.dll
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.RazorTargetAssemblyInfo.cache
+D:\developer\2017\TND_Microservice\TND_Microservice\bin\Debug\netcoreapp2.1\TND_Microservice.pdb
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.dll
+D:\developer\2017\TND_Microservice\TND_Microservice\obj\Debug\netcoreapp2.1\TND_Microservice.pdb
